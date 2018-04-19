@@ -1,0 +1,150 @@
+fpppp
+direct-map:
+	no vc:
+	sim_dcache_miss_ld_rate       6.0132 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       7.2842 # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       5.9648 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       7.2842 # data cache miss rate (percentage) for store
+2-way:
+	no vc:
+	sim_dcache_miss_ld_rate       0.86078 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.49717 # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       0.86060 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.49717 # data cache miss rate (percentage) for store
+4-way:
+	no vc:
+	sim_dcache_miss_ld_rate       0.18562 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.053987 # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       0.18556 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.053987 # data cache miss rate (percentage) for store
+
+
+
+
+
+
+
+gcc
+direct-map:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       2.7434 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       1.1898 # data cache miss rate (percentage) for store
+2-way:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       1.4067 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.50804 # data cache miss rate (percentage) for store
+4-way:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       1.0938 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.41481 # data cache miss rate (percentage) for store
+
+
+
+
+
+
+
+go
+direct-map:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       5.1896 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       1.6481 # data cache miss rate (percentage) for store
+2-way:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       1.9776 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.82808 # data cache miss rate (percentage) for store
+4-way:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       1.4080 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.68007 # data cache miss rate (percentage) for store
+
+
+
+
+
+
+
+vpr
+direct-map:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       3.5192 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.94303 # data cache miss rate (percentage) for store
+2-way:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       2.2357 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.66370 # data cache miss rate (percentage) for store
+4-way:
+	no vc:
+	sim_dcache_miss_ld_rate              # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate              # data cache miss rate (percentage) for store
+	with vc:
+	sim_dcache_miss_ld_rate       1.9120 # data cache miss rate (percentage) for load
+	sim_dcache_miss_st_rate       0.61966 # data cache miss rate (percentage) for store
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.

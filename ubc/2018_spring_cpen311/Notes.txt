@@ -1,0 +1,5 @@
+slides2 page 21: SW >> x
+alwys >> always
+
+p29: No else clause in conditional statement 
+what conditional statement?

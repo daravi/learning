@@ -1,0 +1,25 @@
+Why are you applying for Financial Aid? (150 words minimum required)
+
+Dear Coursera staff,
+
+I have always been interested in mathematics and also in computer software and hardware. As a result I have always suspected that I would enjoy learning about Machine learning and AI. So finally I have decided to learn the basics via the Coursera specialization since this specialization seems to offer a great starting point. 
+However, since I am currently a student (in the final year of my university degree) and I don't have a job at the moment and therefore I am not able to afford to pay for the courses. Ideally I would like to learn a lot about this topic, build my portfolio and find a job relevant to this topic. Thus I will likely won't have any money to pay for machine learning courses during this learning period. By giving me a financial aid, you would enable me to complete these courses and I will be able to hopefully find a job relevant to what I think I will be passionate about.
+
+How will taking this course help you achieve your career goals? (150 words minimum required)
+
+Dear Coursera staff,
+
+By taking this course I will be one step closer in my journey of becoming a machine learning expert. Becoming a machine learning and AI expert will eventually help me achieve my ultimate dreams of becoming an entrepreneur. It will let me build impactful technology by enabling me add AI to the tools available to me in my product development efforts. Knowing what is possible and what is impractical in the area of machine learning and AI will also help me develop an intuition when trying to come up with ideas on disruptive and useful products and services.
+
+In the case that I am not able to create my own business, I will be able to take these skills to companies that are looking to hire machine learning experts. It appears to me that working in such environment would be very interesting and that it would be a fulfilling career.
+
+
+Would you consider using a low-interest loan to pay for your courses?
+YesYes I would consider using a low-interest loan to pay for coursesNoNo, I would not consider using a low-interest loan to pay for courses
+If you answered no, please help us understand why.
+
+The reasoning is that since I am not employed at the moment, I would be putting myself in a risky position where I might end up not able to find a relevant job either due to:
+- Not being talented enough for this subject matter
+- The job market being too competetive
+- Or other unforeseen reasons.
+Therefore having loans that further pressure me into having to take unsatisfying jobs in order to be able to pay them back. However I would definitely consider taking a loan if for example it would be conditional to Coursera helping me find a job in machine learning with a certain minimum salary and a certain maximum contract length.

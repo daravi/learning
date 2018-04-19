@@ -1,0 +1,13 @@
+a_i_miss_rate,0.058665
+a_ii_miss_rate,0.11060
+b_ld_miss_rate,0.0016015
+b_st_miss_rate,0.00037976
+b_wb_ratio,0.0043885
+c_direct_ld_miss_rate,0.059648
+c_direct_st_miss_rate,0.072842
+c_2way_ld_miss_rate,0.0086060
+c_2way_st_miss_rate,0.0049717
+c_4way_ld_miss_rate,0.0018556
+c_4way_st_miss_rate,0.00053987
+d_miss_rate,0.055497
+d_prefetch_success_rate,0.99572

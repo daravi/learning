@@ -1,0 +1,10 @@
+miss
+child?
+	cache_access_r(c->child, READ, addr, miss_counter, wb_counter, rc);
+no child:
+	cache_access_r(rc, UPDATE, addr, miss_counter, wb_counter, rc);
+cache_full(c, idx, &pos)
+	cache_update(c, idx, pos, REPLACE, tag)
+cache_access_r(c->child, UPDATE, addr, miss_counter, wb_counter, rc);
+cache_full(c, idx, &pos)
+	c->m_line_array[idx][pos].m_valid = 1;
